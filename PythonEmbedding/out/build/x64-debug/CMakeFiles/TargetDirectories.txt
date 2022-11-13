@@ -1,0 +1,5 @@
+D:/PythonEmbedding/out/build/x64-debug/CMakeFiles/edit_cache.dir
+D:/PythonEmbedding/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+D:/PythonEmbedding/out/build/x64-debug/Main/CMakeFiles/Main.dir
+D:/PythonEmbedding/out/build/x64-debug/Main/CMakeFiles/edit_cache.dir
+D:/PythonEmbedding/out/build/x64-debug/Main/CMakeFiles/rebuild_cache.dir
